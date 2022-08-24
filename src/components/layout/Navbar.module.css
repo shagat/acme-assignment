@@ -1,0 +1,14 @@
+.homeImg {
+  width: 24px;
+  height: 24px;
+  background: url("../../assets/icons.png") 0 0;
+}
+.list {
+  text-decoration: none;
+  list-style: none;
+}
+.navbar {
+  display: flex;
+  background-color: rgba(67, 66, 93, 1);
+  flex-direction: column;
+}
